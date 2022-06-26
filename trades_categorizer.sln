@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trades_categorizer", "trades_categorizer.csproj", "{33B0D795-3C7F-4F78-A5DE-6F0C62206188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33B0D795-3C7F-4F78-A5DE-6F0C62206188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B0D795-3C7F-4F78-A5DE-6F0C62206188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B0D795-3C7F-4F78-A5DE-6F0C62206188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B0D795-3C7F-4F78-A5DE-6F0C62206188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DA741F-C7EB-4B9A-8E91-C1A0898AEA04}
+	EndGlobalSection
+EndGlobal
